@@ -1,10 +1,10 @@
 let linguaAtual = "pt";
 
 const texto ={
-    pt:{ SobreMim: "Sobre Mim",
+    pt:{ SobreMim: "Sobre esta página",
         Introd: "Esse portfólio é um testezinho pra aula de HTML que to tendo no If.",
     },
-    en:{SobreMim: "About Me",
+    en:{SobreMim: "About this page",
         Introd: "This porfolio is a little test for the HTML class that I'm having at IF.",
 
     },
