@@ -1,0 +1,45 @@
+
+
+
+body{
+    padding: 50px;
+    text-align: justify;
+}
+
+.barra-navegacao{
+    display: flex;
+    gap: 20px;
+    padding: 20px; 
+    list-style-type: none;
+    text-align: center;
+}
+
+.item-lista{
+    flex: 1;
+    text-align: center;
+    margin: 100px;
+    
+}
+
+.roxo{
+    color: blueviolet;
+}
+
+
+.container{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    padding: 20px;   
+}
+
+.flex{
+    flex: 1;
+    padding: 20px;
+}
+
+.flex li{
+    border-bottom: 1px solid plum;
+    list-style-type: none;
+    padding: 10px 0;
+}
